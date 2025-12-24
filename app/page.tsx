@@ -10,7 +10,7 @@ export default function Home() {
         <div className="flex justify-center gap-3">
           <a
             className="px-4 py-2 rounded-xl bg-white text-black font-semibold"
-            href="https://discord.gg/TON_INVITE"
+            href="https://discord.gg/gFsHvyAu8g"
             target="_blank"
             rel="noreferrer"
           >
